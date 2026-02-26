@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "アナログライフ",
+  "base_artist": "imase",
+  "createdAt": "2026-02-26T14:57:59.801949Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アナログライフ",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/01_アナログライフ_imase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アナログライフ - Analog Life",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/02_アナログライフ_-_Analog_Life_imase.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アナログライフ",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_アナログライフ_imase.txt"
+    }
+  ]
+}
